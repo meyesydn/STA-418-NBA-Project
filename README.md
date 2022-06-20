@@ -7,7 +7,7 @@ Readme for STA 418 project Repo
 # NBA Analytics
 
 Simple overview of use/purpose: Analyze the NBA advanced stats at hand, run some simulations, run different types of clustering algorithm, look into 
-correlations. I want to see what factors impact the win/loss columns and run machine learning algorithms to ultimately figure out the contenders for the following season. 
+correlations. I want to see what factors impact the win/loss columns, which attributes are the most related winning and run machine learning algorithms to ultimately figure out the contenders for the following season. 
 
 ## Description
 
