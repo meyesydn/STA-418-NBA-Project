@@ -1,6 +1,7 @@
 # STA-418-NBA-Project
 Readme for STA 418 project Repo
  
+![nbapic](https://user-images.githubusercontent.com/97749034/174670283-a6dc2150-5a54-4c9b-86bf-0fdc9d55bfec.jpg)
 
 
 # NBA Analytics
@@ -18,14 +19,14 @@ Given that I was to make this project my own, I used the basketball-reference we
 
 ### Dependencies/Prerequisites
 
-The original dataset has more than 30 columns. I've made a document that explains/defines each column and whether it needs to be kept or dropped. To get an understanding of the terminology of each advance stat it is important to go over this document. 
+The dataset has more than 30 columns. I've made a document that explains/defines each column and whether it needs to be kept or dropped. To get an understanding of the terminology of each advance stat it is important to go over this document. 
 
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Enael Woldemichael 
+Enael Woldemichael 
 
 ## Acknowledgments
 
